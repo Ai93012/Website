@@ -4,9 +4,11 @@
 These are two website templates.
 
 Shopping Mall: 예전에 진행했던 프로젝트의 템플릿의 아쉬운 점을 보완한 쇼핑몰 템플릿 입니다.
+
 Photo Grid: 사진 포트폴리오 등으로 활용하기 좋은 포트폴리오 사이트 템플릿 입니다.
 
 Shopping Mall: A shopping mall template that complements the shortcomings of the template of the previous project.
+
 Photo Grid: A portfolio site template that can be used as a photo portfolio.
 
 사용한 사진 출처: Pixabay
